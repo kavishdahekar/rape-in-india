@@ -1,2 +1,2 @@
 # rape-in-india
-Data Collection as Visualization of Rapes in India
+Data Collection and Visualization of Rapes in India
